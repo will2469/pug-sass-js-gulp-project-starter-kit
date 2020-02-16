@@ -2,7 +2,7 @@ language: node_js
 node_js: 
   - 13.8.0
 before_script:
-  - npm install -g gulp
+  - npm install -g gulp mocha
 cache:
   directories:
     - "node_modules"
