@@ -101,23 +101,7 @@ Untuk memulai aplikasi ini silahkan ikuti langkah - langkah berikut :
 
 ## Donasi
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](VUD3ME6DUHU3U)
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VUD3ME6DUHU3U">
-<table>
-<tr><td><input type="hidden" name="on0" value="Buy Me a Coffee">Buy Me a Coffee</td></tr><tr><td><select name="os0">
-	<option value="small">small $2,50 USD</option>
-	<option value="medium">medium $5,00 USD</option>
-	<option value="big">big $10,00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/id_ID/i/scr/pixel.gif" width="1" height="1">
-</form>
-
+[![Buy me Coffee](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VUD3ME6DUHU3U)
 
 ## Lisensi
 
