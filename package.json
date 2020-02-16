@@ -4,8 +4,7 @@
   "description": "pug sass js gulp project starter-kit",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "sass": "gulp sass",
     "pug": "gulp pug",
     "js": "gulp js",
