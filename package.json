@@ -1,0 +1,47 @@
+{
+  "name": "pug-sass-js-gulp-project-starter-kit",
+  "version": "1.0.0",
+  "description": "pug sass js gulp project starter-kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "gulp sass",
+    "pug": "gulp pug",
+    "js": "gulp js",
+    "cache:bust": "gulp cache:bust",
+    "prod": "gulp",
+    "watch": "gulp watch",
+    "serve": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/will2469/pug-sass-js-gulp-project-starter-kit.git"
+  },
+  "keywords": [
+    "pug",
+    "sass",
+    "starter-kit",
+    "css",
+    "js",
+    "html"
+  ],
+  "author": "Will2469 <https://github.com/will2469>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will2469/pug-sass-js-gulp-project-starter-kit/issues"
+  },
+  "homepage": "https://github.com/will2469/pug-sass-js-gulp-project-starter-kit",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}

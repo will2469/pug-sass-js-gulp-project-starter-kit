@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900|Oswald:300,400,500,600,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Merriweather',
+        serif;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+div#header {
+    font-family: 'Merriweather',
+        serif;
+    Font-Size: 20px;
+    width: 100%;
+    height: 50px;
+    background-color: #ff0000;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.logo a {
+    font-size: 1.0em;
+    color: #ffffff;
+}
+
+.logo a span {
+    font-weight: 300;
+}
+
+div#container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.sidebar {
+    width: 250px;
+    height: 500px;
+    background-color: #3AB3B4;
+    float: left;
+}
+
+ul#nav {}
+
+ul#nav li {
+    list-style: none;
+}
+
+ul#nav li a {
+    color: #ffffff;
+    display: block;
+    padding: 12px;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+}
+
+ul#nav li a:hover {
+    background-color: #cccccc;
+    padding-left: 20px;
+}
+
+.content {
+    width: auto;
+    height: 500px;
+    margin-left: 250px;
+    background-color: #769BEB;
+    padding: 15px;
+}
+
+.content p {
+    font-size: 14px;
+}
+
+a.mobile-active {
+    background-color: #ff0000;
+}
+
+@media only screen and (max-width: 320px) {
+    .sidebar {
+        display: none;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+}

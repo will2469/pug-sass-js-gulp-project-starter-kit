@@ -1,0 +1,1 @@
+console.log("Hi Im Javascript for the starter kit")
