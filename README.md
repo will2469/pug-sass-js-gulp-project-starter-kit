@@ -11,7 +11,6 @@ Starter project ini dibangun dengan versi terbaru saat ini sehingga tidak ada ke
 - [Features](#features)
 - [Install](#install)
 - [Panduan](#panduan)
-- [Donasi](#panduan)
 - [Lisensi](#lisensi)
 
 ## Latar Belakang
@@ -21,7 +20,6 @@ Project ini sebenarnya adalah branch dari project yang sedang saya jalankan. Say
 ## Build status
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f974ac9efbbe43beb1ee2a7080b851b5)](https://www.codacy.com/manual/will2469/pug-sass-js-gulp-project-starter-kit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=will2469/pug-sass-js-gulp-project-starter-kit&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.com/will2469/pug-sass-js-gulp-project-starter-kit.svg?branch=master)](https://travis-ci.com/will2469/pug-sass-js-gulp-project-starter-kit)
 
 ## Dependencies
 
@@ -98,10 +96,7 @@ Untuk memulai aplikasi ini silahkan ikuti langkah - langkah berikut :
     ```
     $ npm i gulp-cli -g
     ```
-
-## Donasi
-
-[![Buy me Coffee](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VUD3ME6DUHU3U)
+    
 
 ## Lisensi
 
