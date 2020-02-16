@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/will2469/pug-sass-js-gulp-project-starter-kit/issues"
   },
-  "homepage": "https://github.com/will2469/pug-sass-js-gulp-project-starter-kit",
+  "homepage": "https://github.com/will2469/pug-sass-js-gulp-project-starter-kit#readme",
   "devDependencies": {
     "autoprefixer": "^9.7.4",
     "browser-sync": "^2.26.7",
@@ -44,5 +44,10 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.0.1"
   }
 }
